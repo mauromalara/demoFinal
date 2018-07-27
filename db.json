@@ -3,30 +3,43 @@
     {
       "id": 1,
       "name": "Mauro Malara",
-      "dni": 40849224,
-      "image": "http://www.afb.org/image.ashx?ImageID=5012",
-      "group": 1
+      "person": true,
+      "image": "https://www.eiseverywhere.com/file_uploads/2a150f74d82fad124e923ca43a1a13b4_Tregoning_Aaron_A29W8112.jpg"
     },
     {
       "id": 2,
       "name": "Florencia Malara",
-      "dni": 40876224,
-      "image": "http://www.afb.org/image.ashx?ImageID=5012",
-      "group": 1
+      "person": true,
+      "image": "http://www.afb.org/image.ashx?ImageID=5012"
     },
     {
       "id": 3,
       "name": "Nicole Garro",
-      "dni": 40879814,
-      "image": "https://www.hackmeierinsurance.com/wp-content/uploads/sites/1255/2015/10/business-key-person-200x300.jpg",
-      "group": 1
+      "person": true,
+      "image": "https://www.hackmeierinsurance.com/wp-content/uploads/sites/1255/2015/10/business-key-person-200x300.jpg"
     },
     {
       "id": 4,
       "name": "Graciela Videla",
-      "dni": 40879004,
-      "image": "http://www.businessdevcenter.org/wp-content/uploads/NewIrwin-Levine.jpg",
-      "group": 4
+      "person": true,
+      "image": "http://www.businessdevcenter.org/wp-content/uploads/NewIrwin-Levine.jpg"
+    }
+  ],
+  "places":[
+    {
+      "id": 1,
+      "street": "Av. Perú",
+      "number": "1908"
+    },
+    {
+      "id": 2,
+      "street": "Patricias Mendocinas",
+      "number": "3301"
+    },
+    {
+      "id": 3,
+      "street": "Paso de los Andes",
+      "number": "1200"
     }
   ]
 }

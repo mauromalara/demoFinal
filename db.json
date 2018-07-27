@@ -1,41 +1,41 @@
 {
- "users": [
-  {
-    "id": 1,
-    "name": "Mauro Malara",
-    "loves": true
-  },
-  {
-    "id": 2,
-    "name": "Florencia Malara",
-    "loves": true
-  },
-  {
-    "id": 3,
-    "name": "Nicole Garro",
-    "loves": true
-  },
-  {
-    "id": 4,
-    "name": "Graciela Videla",
-    "loves": true
-  }
-],
- "places":[
-  {
-    "id": 1,
-    "street": "Av. Perú",
-    "number": "1908"
-  },
-  {
-    "id": 2,
-    "street": "Patricias Mendocinas",
-    "number": "3301"
-  },
-  {
-    "id": 3,
-    "street": "Paso de los Andes",
-    "number": "1200"
-  }
-]
+  "users":[
+    {
+      "id": 1,
+      "name": "Mauro Malara",
+      "loves": true
+    },
+    {
+      "id": 2,
+      "name": "Florencia Malara",
+      "loves": true
+    },
+    {
+      "id": 3,
+      "name": "Nicole Garro",
+      "loves": true
+    },
+    {
+      "id": 4,
+      "name": "Graciela Videla",
+      "loves": true
+    }
+  ],
+  "places":[
+    {
+      "id": 1,
+      "street": "Av. Perú",
+      "number": "1908"
+    },
+    {
+      "id": 2,
+      "street": "Patricias Mendocinas",
+      "number": "3301"
+    },
+    {
+      "id": 3,
+      "street": "Paso de los Andes",
+      "number": "1200"
+    }
+  ]
 }

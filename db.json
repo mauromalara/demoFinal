@@ -3,25 +3,25 @@
     {
       "id": 1,
       "name": "Mauro Malara",
-      "person": true,
+      "dni": 40849224,
       "image": "https://www.eiseverywhere.com/file_uploads/2a150f74d82fad124e923ca43a1a13b4_Tregoning_Aaron_A29W8112.jpg"
     },
     {
       "id": 2,
       "name": "Florencia Malara",
-      "person": true,
+      "dni": 40876224,
       "image": "http://www.afb.org/image.ashx?ImageID=5012"
     },
     {
       "id": 3,
       "name": "Nicole Garro",
-      "person": true,
+      "dni": 40879814,
       "image": "https://www.hackmeierinsurance.com/wp-content/uploads/sites/1255/2015/10/business-key-person-200x300.jpg"
     },
     {
       "id": 4,
       "name": "Graciela Videla",
-      "person": true,
+      "dni": 40879004,
       "image": "http://www.businessdevcenter.org/wp-content/uploads/NewIrwin-Levine.jpg"
     }
   ],
